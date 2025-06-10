@@ -65,9 +65,6 @@
 | Ada Wong           | SVR_F17  | Character |
 | Rebecca Chambers   | SVR_F18  | Character |
 | Thalita Lyra       | SVR_F19  | Character |
-| Ellen Ripley       | SVR_F20  | Character |
-| Sable Ward         | SVR_F21  | Character |
-| Aestri Yazar       | SVR_F22  | Character |
 | Dwight Fairfield   | SVR_M01  | Character |
 | Jake Park          | SVR_M02  | Character |
 | Ace Visconti       | SVR_M03  | Character |
