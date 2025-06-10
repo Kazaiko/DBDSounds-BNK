@@ -1,7 +1,7 @@
 # DBDSounds-BNK
 <img src="https://i.imgur.com/pBGzNxL.png" align="right" alt="Wwise Logo" width="128" height="128">
 
-This repository serves as a collection of all audio featured in Dead by Daylight game. Main use of this repository is to mod Dead by Daylight private servers.
+This repository serves as a collection of all audio featured in the Dead by Daylight private server. Main use of this repository is to mod Dead by Daylight private servers.
 
 Remember that this audio is the property of its respective owners and should not be used without their permission. This repository is intended for educational and non-commercial purposes only.
 
