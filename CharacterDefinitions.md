@@ -35,11 +35,6 @@
 | The Mastermind     | KLR_29   | Character |
 | The Knight         | KLR_30   | Character |
 | The Skull Merchant | KLR_31   | Character |
-| The Singularity    | KLR_32   | Character |
-| The Xenomorph      | KLR_33   | Character |
-| The Good Guy       | KLR_34   | Character |
-| The Unknown        | KLR_35   | Character |
-| The Lich           | KLR_36   | Character |
 
 ## Survivors
 
@@ -59,7 +54,6 @@
 | James Sunderland   | SVR_F11b | Outfit    |
 | Lisa Garland       | SVR_F11c | Outfit    |
 | Cybil Bennett      | SVR_F11d | Outfit    |
-| Maria              | SVR_F11e | Outfit    |
 | Élodie Rakoto      | SVR_F12  | Character |
 | Yun-Jin Lee        | SVR_F13  | Character |
 | Jill Valentine     | SVR_F14  | Character |
@@ -70,9 +64,6 @@
 | Ada Wong           | SVR_F17  | Character |
 | Rebecca Chambers   | SVR_F18  | Character |
 | Thalita Lyra       | SVR_F19  | Character |
-| Ellen Ripley       | SVR_F20  | Character |
-| Sable Ward         | SVR_F21  | Character |
-| Aestri Yazar       | SVR_F22  | Character |
 | Dwight Fairfield   | SVR_M01  | Character |
 | Jake Park          | SVR_M02  | Character |
 | Ace Visconti       | SVR_M03  | Character |
@@ -94,8 +85,3 @@
 | Vittorio Toscano   | SVR_M16  | Character |
 | Renato Lyra        | SVR_M17  | Character |
 | Gabriel Soma       | SVR_M18  | Character |
-| Nicolas Cage       | SVR_M19  | Character |
-| Alan Wake          | SVR_M20  | Character |
-| Saga Anderson      | SVR_M20b | Outfit    |
-| Rose Marigold      | SVR_M20c | Outfit    |
-| Baermar Uraz       | SVR_M21  | Character |
